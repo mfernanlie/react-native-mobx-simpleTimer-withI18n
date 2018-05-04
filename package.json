@@ -30,6 +30,7 @@
     "eslint": "3.19.0",
     "eslint-plugin-react": "7.0.0",
     "jest": "18.1.0",
+    "react-native-i18n": "^2.0.12",
     "react-test-renderer": "16.0.0-alpha.6"
   },
   "dependencies": {
